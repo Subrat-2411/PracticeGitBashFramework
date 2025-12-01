@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-08-17T09:31:44 IST" name="Default suite" finished-at="2025-08-17T09:31:44 IST" duration-ms="96">
+    <groups>
+    </groups>
+    <test started-at="2025-08-17T09:31:44 IST" name="Default test" finished-at="2025-08-17T09:31:44 IST" duration-ms="96">
+      <class name="practice.SelectingDropdowns">
+        <test-method is-config="true" signature="demo()[pri:0, instance:practice.SelectingDropdowns@7dcf94f8]" started-at="2025-08-17T09:31:44 IST" name="demo" finished-at="2025-08-17T09:31:44 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo -->
+        <test-method is-config="true" signature="test1()[pri:0, instance:practice.SelectingDropdowns@7dcf94f8]" started-at="2025-08-17T09:31:44 IST" name="test1" finished-at="2025-08-17T09:31:44 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method is-config="true" signature="test2()[pri:0, instance:practice.SelectingDropdowns@7dcf94f8]" started-at="2025-08-17T09:31:44 IST" name="test2" finished-at="2025-08-17T09:31:44 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method is-config="true" signature="runclass1()[pri:0, instance:practice.SelectingDropdowns@7dcf94f8]" started-at="2025-08-17T09:31:44 IST" name="runclass1" finished-at="2025-08-17T09:31:44 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runclass1 -->
+        <test-method is-config="true" signature="runclass2()[pri:0, instance:practice.SelectingDropdowns@7dcf94f8]" started-at="2025-08-17T09:31:44 IST" name="runclass2" finished-at="2025-08-17T09:31:44 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runclass2 -->
+        <test-method is-config="true" signature="runmethod1()[pri:0, instance:practice.SelectingDropdowns@7dcf94f8]" started-at="2025-08-17T09:31:44 IST" name="runmethod1" finished-at="2025-08-17T09:31:44 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runmethod1 -->
+        <test-method is-config="true" signature="runmethod2()[pri:0, instance:practice.SelectingDropdowns@7dcf94f8]" started-at="2025-08-17T09:31:44 IST" name="runmethod2" finished-at="2025-08-17T09:31:44 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runmethod2 -->
+        <test-method signature="selectDropdowns()[pri:0, instance:practice.SelectingDropdowns@7dcf94f8]" started-at="2025-08-17T09:31:44 IST" name="selectDropdowns" finished-at="2025-08-17T09:31:44 IST" duration-ms="19" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectDropdowns -->
+        <test-method is-config="true" signature="runamethod1()[pri:0, instance:practice.SelectingDropdowns@7dcf94f8]" started-at="2025-08-17T09:31:44 IST" name="runamethod1" finished-at="2025-08-17T09:31:44 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runamethod1 -->
+        <test-method is-config="true" signature="runbmethod2()[pri:0, instance:practice.SelectingDropdowns@7dcf94f8]" started-at="2025-08-17T09:31:44 IST" name="runbmethod2" finished-at="2025-08-17T09:31:44 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runbmethod2 -->
+        <test-method is-config="true" signature="runmethod1()[pri:0, instance:practice.SelectingDropdowns@7dcf94f8]" started-at="2025-08-17T09:31:44 IST" name="runmethod1" finished-at="2025-08-17T09:31:44 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runmethod1 -->
+        <test-method is-config="true" signature="runmethod2()[pri:0, instance:practice.SelectingDropdowns@7dcf94f8]" started-at="2025-08-17T09:31:44 IST" name="runmethod2" finished-at="2025-08-17T09:31:44 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runmethod2 -->
+        <test-method signature="selectDropdowns2()[pri:0, instance:practice.SelectingDropdowns@7dcf94f8]" started-at="2025-08-17T09:31:44 IST" name="selectDropdowns2" finished-at="2025-08-17T09:31:44 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectDropdowns2 -->
+        <test-method is-config="true" signature="runamethod1()[pri:0, instance:practice.SelectingDropdowns@7dcf94f8]" started-at="2025-08-17T09:31:44 IST" name="runamethod1" finished-at="2025-08-17T09:31:44 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runamethod1 -->
+        <test-method is-config="true" signature="runbmethod2()[pri:0, instance:practice.SelectingDropdowns@7dcf94f8]" started-at="2025-08-17T09:31:44 IST" name="runbmethod2" finished-at="2025-08-17T09:31:44 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runbmethod2 -->
+        <test-method is-config="true" signature="runcmethod1()[pri:0, instance:practice.SelectingDropdowns@7dcf94f8]" started-at="2025-08-17T09:31:44 IST" name="runcmethod1" finished-at="2025-08-17T09:31:44 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runcmethod1 -->
+        <test-method is-config="true" signature="runcmethod2()[pri:0, instance:practice.SelectingDropdowns@7dcf94f8]" started-at="2025-08-17T09:31:44 IST" name="runcmethod2" finished-at="2025-08-17T09:31:44 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runcmethod2 -->
+      </class> <!-- practice.SelectingDropdowns -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
